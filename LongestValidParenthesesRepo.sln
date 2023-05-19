@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestValidParenthesesRepo", "LongestValidParenthesesRepo\LongestValidParenthesesRepo.csproj", "{C0CAE438-A6A9-46B9-A8B3-48CF5116A514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestValidParenthesesRepo.Tests", "LongestValidParenthesesRepo.Tests\LongestValidParenthesesRepo.Tests.csproj", "{1DBFB0C8-8A89-43FB-8563-1EEAA26CAF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0CAE438-A6A9-46B9-A8B3-48CF5116A514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CAE438-A6A9-46B9-A8B3-48CF5116A514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CAE438-A6A9-46B9-A8B3-48CF5116A514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CAE438-A6A9-46B9-A8B3-48CF5116A514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBFB0C8-8A89-43FB-8563-1EEAA26CAF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBFB0C8-8A89-43FB-8563-1EEAA26CAF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBFB0C8-8A89-43FB-8563-1EEAA26CAF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBFB0C8-8A89-43FB-8563-1EEAA26CAF28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C09AAD-2DBB-424A-8D1F-4AFD8284C9B4}
+	EndGlobalSection
+EndGlobal
